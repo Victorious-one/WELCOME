@@ -17,7 +17,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🤔 I’m looking for help with DevOps  
 - 📫 How to reach me: vijaysanapala6@gmail.com 
 - 😄 Pronouns: He/His 
-- ⚡ Fun fact: My first program is not hello world....🤣 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Victorious-one )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/vijay_kumar_sanapala?igsh=NTc4MTIwNjQ2YQ==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://vijaykumar.rf.gd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg' alt='googlechrome' height='40'>](https://github.com/Victorious-one/Victorious-one)  
@@ -36,11 +35,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Victorious-one )  
 
-<summary> <h2>🔥 Streak</h2> </summary>
-
-<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=thecodermehedi&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=3B82F6&sideLabels=2563EB&currStreakNum=3B82F6&ring=3B82F6&currStreakLabel=2563EB&sideNums=3B82F6" />
-
-</details> -->
 
 ##
 ![snake gif](https://github.com/thecodermehedi/thecodermehedi/blob/output/github-contribution-grid-snake-dark.svg)
