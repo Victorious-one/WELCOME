@@ -33,7 +33,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Victorious-one )  
 
 
-##
-![snake gif](https://github.com/thecodermehedi/thecodermehedi/blob/output/github-contribut8ion-grid-snake-dark.svg)
 
 
