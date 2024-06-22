@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;UI/UX+Designer;Computer+Science+Student;Open-Source+Enthusiast" alt="Headline" />
     </div>
-<p align="center"><a href="https://arjuncvinod.github.io">Portfolio↗️</a></p>
+<p align="center"><a href="https://drive.google.com/file/d/1iDAqpwxAIYPwx9HXXxs5EXDworc5jMYw/view?usp=drivesdk">Portfolio↗️</a></p>
 <div align=center>
 
  [![wakatime](https://wakatime.com/badge/user/018b7c34-66c0-414f-bed4-3cc0802eb59d.svg?style=for-the-badge)](https://wakatime.com/@018b7c34-66c0-414f-bed4-3cc0802eb59d)
