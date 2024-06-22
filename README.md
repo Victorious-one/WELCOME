@@ -34,6 +34,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 
-##
-![snake gif](https://github.com/thecodermehedi/thecodermehedi/blob/output/github-contribut8ion-grid-snake-dark.svg)
+
 
